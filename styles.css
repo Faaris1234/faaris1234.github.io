@@ -1,0 +1,20 @@
+h1 {
+    font-family: Georgia, serif;
+}
+
+h2 {
+    font-family: Garamond, serif;
+}
+
+body {
+    background-color: bisque;
+    margin: 20px;
+    padding: 20px;
+}
+
+#unique {
+    background-color: brown;
+    color: azure;
+    margin: 50px;
+    padding: 50px;
+}
